@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "codecov": "^3.0.2",
+    "lint-staged": "^7.0.0"
+  },
+  "optionalDependencies": {
+    "v8-profiler": "^5.7.0"
+  }
+}
